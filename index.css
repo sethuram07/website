@@ -4,10 +4,12 @@ header{
     background-color: lightgray;
 }
 nav{
+    color: black;
     text-align: center;
     background-color: lightseagreen;
     text-decoration: underline;
-    animation-delay: 0ms;
+    
+    
 
     
     
